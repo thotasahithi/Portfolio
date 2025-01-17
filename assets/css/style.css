@@ -1268,7 +1268,8 @@ section {
 .card:hover {
   transform: translateY(-10px); /* Moves the card forward (upwards) */
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15); /* Adds a shadow for a pop-out effect */
-  background-color: #06f1ed; /* New background color on hover */
+  background-color: #000; /* New background color on hover */
+  color: #fff;
 }
 
 .card-title {
